@@ -20,3 +20,8 @@ img {
   right: 0;
 }
 
+.img-left-margin {
+    position:relative;
+    left:178px;
+  }
+
